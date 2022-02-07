@@ -14,4 +14,8 @@ Steps:-
 6. type pip install python-telegram-bot
 7. after module install type python3 main.py (Make Sure to Edit Config.py with your bot token)
 
+if You Want to Add More Responses 
+Edit Responses.py According to You 
+
+Provide a Star If You Like this Repo
 

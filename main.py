@@ -1,4 +1,4 @@
-import Constants as keys
+import Config as keys
 from telegram.ext import *
 
 import Responses as R

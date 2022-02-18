@@ -10,7 +10,7 @@ def sample_responses(input_text):
     if user_message in ("who are you", "who are you?"):
         return "I am a Responsive Bot Made by @dsurareddy"
 
-    if user_message in ("Whats Up", "What's Up Bro?"):
+    if user_message in ("whats up", "what's up bro?"):
         return "Feeling Better"
 
     if user_message in ("date", "date?"):
